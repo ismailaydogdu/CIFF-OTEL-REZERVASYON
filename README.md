@@ -6,6 +6,6 @@ M.CAN DİNCEL -
 FATİH KARADEMİR -
 FURKAN TAŞ 
 
-BİLGE ADAM GRUP PROJE ÖDEVİ 
-OTEL REZERVASYON WİNFORM MASA ÜSTÜ UYGULAMASI
-ADO.NET ve NTier Katmanlı Mimari kullanılarak geliştirilmiştir
+ - BİLGE ADAM GRUP PROJE ÖDEVİ -
+-- OTEL REZERVASYON WİNFORM MASA ÜSTÜ UYGULAMASI --
+--- ADO.NET ve NTier Katmanlı Mimari kullanılarak geliştirilmiştir ---
